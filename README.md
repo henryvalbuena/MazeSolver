@@ -33,3 +33,13 @@ For the momment this has to be done manually, however, it will be changed once t
 - [ ] Allow any shape maze image
 - [ ] Auto generate random maze images
 - [ ] GUI
+
+### Preview
+
+Input
+
+![](images/Maze04.png =100x100)
+
+Output
+
+![](images/Maze04.png =100x100)
