@@ -16,7 +16,7 @@ First
 ```
 Then
 ```java
- 48 | File file = new File("path/images/puzzleDone.png");
+ 48 | File file = new File("path/images/mazeDone.png");
 ```
 For the momment this has to be done manually, however, it will be changed once the GUI is ready.
 
@@ -38,8 +38,8 @@ For the momment this has to be done manually, however, it will be changed once t
 
 Input
 
-![](images/Maze04.png =100x100)
+<img src="images/Maze04.png" width="250" height="250">
 
 Output
 
-![](images/Maze04.png =100x100)
+<img src="images/mazeDone.png" width="250" height="250">

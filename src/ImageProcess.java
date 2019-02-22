@@ -45,7 +45,7 @@ public class ImageProcess {
     public void printImage() {
         System.out.println("********** Printing ************");
         try {
-            File file = new File("path/images/puzzleDone.png");
+            File file = new File("path/images/mazeDone.png");
             ImageIO.write(image, "png", file);
             Desktop desktop = Desktop.getDesktop();
             desktop.open(file);
